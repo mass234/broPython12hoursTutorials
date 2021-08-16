@@ -1,0 +1,10 @@
+{"intents":
+[
+  {"tag": "greenting",
+   "patterns":  ["Hey", "Hello", "Hi", "How is it going?"],
+    "responses": ["Hello, what can I do for you?", "Hi, How can I help you?"]},
+  }
+
+
+
+]}

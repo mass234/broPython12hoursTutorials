@@ -1,0 +1,12 @@
+GUI Graphic User Interface 
+CUI Computer User Interface
+
+
+CPU 中央処理装置
+GPU グラフィック
+RAM　メモリ　８GB　
+HDD　５００GB
+
+OS　Operating System(Windows, macOS, Android,iOS)
+
+10101010100001 
